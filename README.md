@@ -46,8 +46,8 @@ WarriorOG is a responsive personal portfolio for showcasing development work, te
 ### Installation
 
 ```bash
-git clone https://github.com/WarriorOGZz/WarXFolio.git
-cd WarXFolio
+git clone https://github.com/WarriorOGZz/warriorog-portfolio-cleaned.git
+cd warriorog-portfolio-cleaned
 npm install
 ```
 
