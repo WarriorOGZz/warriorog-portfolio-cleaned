@@ -4,7 +4,7 @@
 
 A personal portfolio built with React, TypeScript, Vite, Tailwind CSS, and Motion.
 
-[Live website](https://warriorog.in) · [GitHub profile](https://github.com/WarriorOGZz)
+[Live website](https://warriorog-portfolio.vercel.app/) · [GitHub profile](https://github.com/WarriorOGZz)
 
 </div>
 
